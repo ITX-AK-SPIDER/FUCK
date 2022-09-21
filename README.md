@@ -1,2 +1,1 @@
-# FUCK
-Bypass MIND
+``` Bypassed Commands MIND ```
